@@ -1,2 +1,7 @@
 # Sales-Data-Analysis-and-Dashboard-Excel-Power-BI-
 This project analyzes Adidas sales data using Excel and Power BI to uncover trends, top-selling products, and regional performance. The dashboard provides interactive visuals, key KPIs, and a 2026 sales forecast, helping turn raw data into clear insights for better business decisions.
+
+# DATASET
+
+The Adidas sales dataset used in this project contains detailed transactional records collected from multiple regions and store types. It represents real-world retail operations, capturing how products across different categories perform in various markets. The dataset includes customer information, product details, pricing, discounts, and revenue insights, making it suitable for sales analysis, forecasting, and business intelligence applications.
+The dataset consists of several thousand rows of 965 and columns of 13, with each row representing one completed customer order. The information is structured into clearly defined fields that help in understanding sales patterns and consumer behaviour. The key attributes include order details (Order ID, Order Date), product identifiers (SKU, Product Name), product grouping (Category), geographic segmentation (Region), and store type (Online or Retail). The dataset also contains financial metrics such as Units Sold, Unit Price, Discount, Revenue, and Profit, enabling profitability and cost analysis. Additionally, demographic fields like Customer Age and Gender, along with Payment Method, offer deeper insights into customer buying preferences.
